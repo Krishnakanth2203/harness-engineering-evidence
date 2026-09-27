@@ -41,4 +41,4 @@ tests/test_us05_plan_mode_doc.py::test_ac_05_05_knight_webb_curriculum_citation 
 tests/test_us05_plan_mode_doc.py::test_ac_05_06_all_cited_file_paths_exist PASSED [ 97%]
 tests/test_us05_plan_mode_doc.py::test_ac_05_07_combined_workflow_example PASSED [100%]
 
-============================== 35 passed in 0.20s ==============================
+============================== 35 passed in 0.13s ==============================
